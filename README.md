@@ -1,4 +1,4 @@
-# Eric Kleppe Homework 6 WeatherPy 
+# Eric Kleppen Homework 6 WeatherPy 
 
 Analyzing weather data for over 500 cities across the globe, we can see a few trends:
 
